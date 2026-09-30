@@ -1,0 +1,2 @@
+# STUDENT-EXAMINATION-SCORE-PREDICTION-USING-ACADEMIC-HISTORY-AND-STUDY-HABIT-ANALYTICS-
+Educational institutions continuously monitor student performance to improve academic outcomes and provide timely support. Traditional evaluation methods mainly depend on previous examination results and often fail to consider important factors such as study habits, attendance, assignment completion, and learning behavior.
